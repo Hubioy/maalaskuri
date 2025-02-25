@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/maalaskuri/static/css/main.626be2b5.css",
-    "main.js": "/maalaskuri/static/js/main.d48dc539.js",
+    "main.js": "/maalaskuri/static/js/main.fa094a90.js",
     "static/js/453.50892a36.chunk.js": "/maalaskuri/static/js/453.50892a36.chunk.js",
     "index.html": "/maalaskuri/index.html",
     "main.626be2b5.css.map": "/maalaskuri/static/css/main.626be2b5.css.map",
-    "main.d48dc539.js.map": "/maalaskuri/static/js/main.d48dc539.js.map",
+    "main.fa094a90.js.map": "/maalaskuri/static/js/main.fa094a90.js.map",
     "453.50892a36.chunk.js.map": "/maalaskuri/static/js/453.50892a36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.626be2b5.css",
-    "static/js/main.d48dc539.js"
+    "static/js/main.fa094a90.js"
   ]
 }
