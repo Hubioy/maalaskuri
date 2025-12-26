@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/maalaskuri/static/css/main.7ef00e70.css",
-    "main.js": "/maalaskuri/static/js/main.892a39af.js",
+    "main.js": "/maalaskuri/static/js/main.d417a72e.js",
     "static/js/488.06da1eb3.chunk.js": "/maalaskuri/static/js/488.06da1eb3.chunk.js",
     "static/media/search.png": "/maalaskuri/static/media/search.25be9da14bacb01b7d69.png",
     "static/media/logo.png": "/maalaskuri/static/media/logo.8e3fe4844b43b5139c21.png",
@@ -9,11 +9,11 @@
     "static/media/building_red.png": "/maalaskuri/static/media/building_red.c351773e54b129b2b001.png",
     "index.html": "/maalaskuri/index.html",
     "main.7ef00e70.css.map": "/maalaskuri/static/css/main.7ef00e70.css.map",
-    "main.892a39af.js.map": "/maalaskuri/static/js/main.892a39af.js.map",
+    "main.d417a72e.js.map": "/maalaskuri/static/js/main.d417a72e.js.map",
     "488.06da1eb3.chunk.js.map": "/maalaskuri/static/js/488.06da1eb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ef00e70.css",
-    "static/js/main.892a39af.js"
+    "static/js/main.d417a72e.js"
   ]
 }
